@@ -1,0 +1,109 @@
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.title {
+  font: bold 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.dot {
+  stroke: #000;
+}
+
+body{
+  background-color: #EDFAFF;
+}
+
+h4{
+  font-style: italic;
+}
+
+h1{
+  font-size: 50px;
+}
+
+#byline {    
+  width: 65%;
+  margin: 0 auto;
+  text-align: left;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.header{
+  border: 2px solid black;
+  width: 65%;
+  margin: 0 auto;
+  font-family: Helvetica;
+  font-size: 50px
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebar{
+  width: 15%;
+  font-style: italic;
+  border: 2px solid black;
+  float: left;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.sidebar2{
+  width: 15%;
+  font-style: italic;
+  border: 2px solid black;
+  float: right;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.para{
+  width: 50%;
+  margin: 0 auto;
+  font-family: Georgia;
+  padding: 10px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width:50%;
+}
+
+#chart2{
+  width: 50%;
+  margin: 0 auto;
+}
+
+#chart1{
+  width: 50%;
+  margin: 0 auto;
+}
+
+#chart3{
+  width: 50%;
+  margin: 0 auto;
+}
+
