@@ -30,7 +30,7 @@
 }
 
 body{
-  background-color: #EDFAFF;
+  background-color: ;
 }
 
 h4{
@@ -50,7 +50,7 @@ h1{
 }
 
 .header{
-  border: 2px solid black;
+  border-bottom: 2px solid black;
   width: 65%;
   margin: 0 auto;
   font-family: Helvetica;
@@ -105,5 +105,15 @@ img{
 #chart3{
   width: 50%;
   margin: 0 auto;
+}
+
+#caption{
+  border:1px solid black;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 10pt;
 }
 
